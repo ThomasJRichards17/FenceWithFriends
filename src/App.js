@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Testing CI changes</h1>
+        <h1>Now hosted on Firebase!</h1>
       </header>
     </div>
   );
